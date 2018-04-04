@@ -1,0 +1,15 @@
+{
+  "name": "olevole-sysctl",
+  "version": "0.0.1",
+  "author": "olevole",
+  "summary": "Sysctl module",
+  "license": "BSD",
+  "source": "https://github.com/olevole/puppet-sysctl.git",
+  "project_page": "https://github.com/olevole/puppet-sysctl",
+  "issues_url": "https://github.com/olevole/puppet-sysctl/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
